@@ -1,0 +1,38 @@
+body
+{
+background-color: lightslategray;
+}
+
+#h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: 400;
+}
+#h4{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style:initial;
+    font-weight: 500;
+}
+#camera{
+    border-color: lightcoral;
+    width: 500px;
+    height: 400px;
+}
+#result1{
+box-shadow: 0cm;
+border-radius: 0%;
+width:300 ;
+height: 400;
+}
+#result2{
+    box-shadow: 0cm;
+    border-radius: 0%;
+    width:300 ;
+    height: 400;
+    }
+    #result3{
+        box-shadow: 0cm;
+        border-radius: 0%;
+        width:300 ;
+        height: 400;
+        }
